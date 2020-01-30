@@ -1,0 +1,14 @@
+{
+    "author": "TikosGangTeam",
+    "version": "1.0",
+    "server_scripts": [
+        "server/server.lua"
+    ],
+    "client_scripts": [
+        "client/client.lua"
+    ],
+    "files":
+    [
+
+    ]
+}
