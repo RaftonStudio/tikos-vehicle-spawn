@@ -3,7 +3,7 @@ AddEvent("OnPlayerJoin", function(player)
     AddPlayerChat(player, "Welcome to SERVER NAME," .. GetPlayerName(player).." !")
 end)
 
-print("Tikos Vehicle Lock script has been loaded to server !") -- do not touch
+print("Tikos Vehicle Spawn script has been loaded to server !") -- do not touch
 
 function cmd_v(player, model)
 	if (model == nil) then
